@@ -1648,6 +1648,8 @@ set print array-indexes on
 set print asm-demangle on
 set python print-stack full
 
+set disassembly-flavor intel
+
 # Start ------------------------------------------------------------------------
 
 python Dashboard.start()
