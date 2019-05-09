@@ -1645,6 +1645,7 @@ set verbose off
 set print pretty on
 set print array off
 set print array-indexes on
+set print asm-demangle on
 set python print-stack full
 
 # Start ------------------------------------------------------------------------
